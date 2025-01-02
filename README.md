@@ -1,4 +1,4 @@
-# Dashboard Refine Framework
+# Docker Laravel
 
 <p align="center">🚀This application is a complete and production-ready environment for your own projects laravel</p>
 
